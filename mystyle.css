@@ -1,7 +1,7 @@
 input {
     width: 150px;
     height: 90px;
-    font-size: 75px;
+    font-size: 70px;
     border-radius: 30px 90px;
     margin: 10px;
     background-color: #000;
@@ -17,7 +17,7 @@ body{
  
 }
 #myform {
-    margin-left: 24%;
+    margin-left: 23%;
     background-color: #919490;
     width:56%;
     border-radius: 40px 90px;
